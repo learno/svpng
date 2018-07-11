@@ -1,0 +1,7 @@
+[package]
+name = "svpng"
+version = "0.1.0"
+authors = ["Learno <learncpp@gmail.com>"]
+
+[dependencies]
+byteorder = "1"
